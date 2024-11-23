@@ -8,7 +8,8 @@ Assignment-X/
 └── output/     # Screenshots or sample outputs (if applicable)  
 
 
-**Contents :- **
+**Contents :-**
+
   **Core Java Assignments :-**
     Concepts like OOP, collections, exception handling, and multithreading.
     
